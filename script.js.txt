@@ -1,4 +1,0 @@
-// Simple alert on resume button click
-document.querySelector('.btn')?.addEventListener('click', () => {
-  console.log('Resume download triggered');
-});
